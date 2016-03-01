@@ -1,0 +1,9 @@
+{
+  "homepage": "http://minecraft.curseforge.com/projects/mattdahepic-core",
+  "promos": {
+    "1.9-recommended": "1.9-1.0"
+  },
+  "1.9": {
+    "1.9-1.0": "Update to 1.9!"
+  }
+}
