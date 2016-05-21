@@ -1,7 +1,8 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/mattdahepic-core",
   "promos": {
-    "1.9-recommended": "1.9-1.0.1"
+    "1.9-recommended": "1.9-1.0.1",
+    "1.9.4-recommended": "1.9.4-1.0"
   },
   "1.9": {
     "1.9-0.1": "Beta 1.9 release, incomplete.",
@@ -12,5 +13,8 @@
     "1.9-0.6": "Rework config system and bump forge version for ore dictionary tweaks.",
     "1.9-1.0": "Update to 1.9!",
     "1.9-1.0.1": "Change to latest forge mappings and add NBT respecting recipes with JEI support."
+  },
+  "1.9.4": {
+    "1.9.4-1.0": "First release for 1.9.4. Fixes config value clamping crash bug."
   }
 }
