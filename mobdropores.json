@@ -1,0 +1,9 @@
+{
+  "homepage": "http://minecraft.curseforge.com/projects/mob-drop-ores",
+  "promos": {
+    "1.10.2-recommended": "1.10.2-1.0"
+  },
+  "1.10.2": {
+    "1.10.2-1.0": "Update to 1.10(.2) and add passive mob ores."
+  }
+}
