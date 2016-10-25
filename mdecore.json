@@ -3,7 +3,7 @@
   "promos": {
     "1.9-recommended": "1.9-1.0.1",
     "1.9.4-recommended": "1.9.4-1.0",
-    "1.10.2-recommended": "1.10.2-1.1"
+    "1.10.2-recommended": "1.10.2-1.2"
   },
   "1.9": {
     "1.9-0.1": "Beta 1.9 release, incomplete.",
@@ -20,6 +20,7 @@
   },
   "1.10.2": {
     "1.10.2-1.0": "Update to 1.10(.2)!",
-    "1.10.2-1.1": "Fix a bug where clicking a cauldron with an empty hand crashes the game."
+    "1.10.2-1.1": "Fix a bug where clicking a cauldron with an empty hand crashes the game.",
+    "1.10.2-1.2": "Fix a bug where commands with zero arguments would not give usages and fix a possible terrain discontinuity bug when pregenerating."
   }
 }
