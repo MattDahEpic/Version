@@ -3,7 +3,8 @@
   "promos": {
     "1.9-recommended": "1.9-1.0.1",
     "1.9.4-recommended": "1.9.4-1.0",
-    "1.10.2-recommended": "1.10.2-1.5"
+    "1.10.2-recommended": "1.10.2-1.5",
+    "1.11-recommended": "1.11-0.1"
   },
   "1.9": {
     "1.9-0.1": "Beta 1.9 release, incomplete.",
@@ -27,5 +28,8 @@
     "1.10.2-1.4.1": "Attempt to fix the AbstractMethodError caused by moving the /tp* commands to base level commands",
     "1.10.2-1.4.2": "More work on the AbstractMethodError introduced in 1.10.2-1.4",
     "1.10.2-1.5": "Fix the bugs. Last release for 1.10.2"
+  },
+  "1.11": {
+    "1.11-0.1": "Update to 1.11!"
   }
 }
