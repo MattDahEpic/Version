@@ -3,8 +3,8 @@
   "promos": {
     "1.9-recommended": "1.9-1.0.2",
     "1.9.4-recommended": "1.9.4-1.0",
-    "1.10.2-recommended": "1.10.2-1.1.1",
-    "1.11-recommended": "1.11-1.0"
+    "1.10.2-recommended": "1.10.2-1.1.2",
+    "1.11-recommended": "1.11-1.0.1"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -17,9 +17,11 @@
   "1.10.2": {
     "1.10.2-1.0": "Update to 1.10(.2)!",
     "1.10.2-1.1": "Fix a bug where converted items would become new stacks, quickly filling up the player's inventory.",
-    "1.10.2-1.1.1": "Update to new mdecore command bugfix."
+    "1.10.2-1.1.1": "Update to new mdecore command bugfix.",
+    "1.10.2-1.1.2": "Fix bug that shifts items around."
   },
   "1.11": {
-    "1.11-1.0": "Update to 1.11!"
+    "1.11-1.0": "Update to 1.11!",
+    "1.11-1.0.1": "Fix bug that shifts items around."
   }
 }
