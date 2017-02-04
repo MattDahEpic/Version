@@ -4,7 +4,7 @@
     "1.9-recommended": "1.9-1.0.2",
     "1.9.4-recommended": "1.9.4-1.0",
     "1.10.2-recommended": "1.10.2-1.1.2",
-    "1.11-recommended": "1.11-1.0.1"
+    "1.11-recommended": "1.11-1.0.2"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -22,6 +22,7 @@
   },
   "1.11": {
     "1.11-1.0": "Update to 1.11!",
-    "1.11-1.0.1": "Fix bug that shifts items around."
+    "1.11-1.0.1": "Fix bug that shifts items around.",
+    "1.11-1.0.2": "Fix empty stack crashing the game."
   }
 }
