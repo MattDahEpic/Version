@@ -1,9 +1,14 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/ringkydinks",
   "promos": {
-    "1.10.2-recommended": "1.10.2-0.1"
+    "1.10.2-recommended": "1.10.2-1.0",
+    "1.11.2-recommended": "1.11-1.0"
   },
   "1.10.2": {
-    "1.10.2-0.1": "Update to 1.10!"
+    "1.10.2-0.1": "Update to 1.10!",
+    "1.10.2-1.0": "Fix server crash bug"
+  },
+  "1.11.2": {
+    "1.11-1.0": "Update to 1.11 and fix server crash bug"
   }
 }
