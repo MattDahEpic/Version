@@ -24,5 +24,8 @@
     "1.11-1.0": "Update to 1.11!",
     "1.11-1.0.1": "Fix bug that shifts items around.",
     "1.11-1.0.2": "Fix empty stack crashing the game."
+  },
+  "1.12": {
+    "1.12-1.0": "Update to 1.12!"
   }
 }
