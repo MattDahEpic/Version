@@ -26,6 +26,7 @@
     "1.11-1.0.2": "Fix empty stack crashing the game."
   },
   "1.12": {
-    "1.12-1.0": "Update to 1.12!"
+    "1.12-1.0": "Update to 1.12!",
+    "1.12-1.0.1": "Fix a bug that caused items to go missing after adding new conversions."
   }
 }
