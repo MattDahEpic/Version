@@ -1,9 +1,9 @@
 {
   "homepage": "http://minecraft.curseforge.com/projects/enderdragon-elytra",
   "promos": {
-    "1.16-recommended": "16.0.0"
+    "1.16.3-recommended": "16.0.0"
   },
-  "1.16": {
+  "1.16.3": {
     "16.0.0": "First release for 1.16."
   }
 }
