@@ -5,7 +5,8 @@
     "1.9.4-recommended": "1.9.4-1.0",
     "1.10.2-recommended": "1.10.2-1.1.2",
     "1.11-recommended": "1.11-1.0.2",
-    "1.12-recommended": "1.12-1.0.1"
+    "1.12-recommended": "1.12-1.0.1",
+    "1.16.3-recommended": "16.0.0"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -29,5 +30,8 @@
   "1.12": {
     "1.12-1.0": "Update to 1.12!",
     "1.12-1.0.1": "Fix a bug that caused items to go missing after adding new conversions."
+  },
+  "1.16.3": {
+    "16.0.0": "Updated to 1.16.3 and reset version numbers."
   }
 }
