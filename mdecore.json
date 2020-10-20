@@ -6,7 +6,7 @@
     "1.10.2-recommended": "1.10.2-1.5.1",
     "1.11-recommended": "1.11-1.0",
     "1.12-recommended": "1.12-1.1",
-    "1.16.3-recommended": "16.0.1"
+    "1.16.3-recommended": "16.0.2"
   },
   "1.9": {
     "1.9-0.1": "Beta 1.9 release, incomplete.",
@@ -43,6 +43,7 @@
   },
   "1.16.3": {
     "16.0.0": "Update to 1.16.3 and reset version numbers.",
-    "16.0.1": "Add extra block and item helpers"
+    "16.0.1": "Add extra block and item helpers",
+    "16.0.2": "add tag helpers and fix error messages for generate command."
   }
 }
