@@ -7,7 +7,7 @@
     "1.11-recommended": "1.11-1.0.2",
     "1.12-recommended": "1.12-1.0.1",
     "1.16.3-recommended": "16.0.1",
-    "1.16.4-recommended": "16.1.0"
+    "1.16.4-recommended": "16.1.2"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -37,6 +37,8 @@
     "16.0.1": "Fixed converter block recipe"
   },
   "1.16.4": {
-    "16.1.0": "Update to 1.16.4, ignore ores, ingots, and blocks base tag by default."
+    "16.1.0": "Update to 1.16.4, ignore ores, ingots, and blocks base tag by default.",
+    "16.1.1": "Add direct item-to-item conversions.",
+    "16.1.2": "Fix /odc list not showing item conversions and improve tag blacklist to prevent common misconfiguration issues."
   }
 }
