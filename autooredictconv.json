@@ -7,8 +7,8 @@
     "1.11-recommended": "1.11-1.0.2",
     "1.12-recommended": "1.12-1.0.1",
     "1.16.3-recommended": "16.0.1",
-    "1.16.4-recommended": "16.1.6",
-    "1.16.5-recommended": "16.1.6"
+    "1.16.4-recommended": "16.1.7",
+    "1.16.5-recommended": "16.1.7"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -44,6 +44,7 @@
     "16.1.3": "Upgrade the converter block to work with other mod pipes and tubes.",
     "16.1.4": "Fix an issue where direct item conversion for source items with no tags would no occur.",
     "16.1.5": "Clarify alternative configuration options available when an item has no tags or all tags are blacklisted.",
-    "16.1.6": "Add additional tags to blacklist to prevent overconversion"
+    "16.1.6": "Add additional tags to blacklist to prevent overconversion",
+    "16.1.7": "Improve saving of conversion config file to always include the comment and to sort alphabetically."
   }
 }
