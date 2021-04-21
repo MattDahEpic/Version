@@ -7,8 +7,8 @@
     "1.11-recommended": "1.11-1.0.2",
     "1.12-recommended": "1.12-1.0.1",
     "1.16.3-recommended": "16.0.1",
-    "1.16.4-recommended": "16.1.8",
-    "1.16.5-recommended": "16.1.8"
+    "1.16.4-recommended": "16.1.9",
+    "1.16.5-recommended": "16.1.9"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -46,6 +46,7 @@
     "16.1.5": "Clarify alternative configuration options available when an item has no tags or all tags are blacklisted.",
     "16.1.6": "Add additional tags to blacklist to prevent overconversion",
     "16.1.7": "Improve saving of conversion config file to always include the comment and to sort alphabetically.",
-    "16.1.8": "Add /odc set command and update help documentation."
+    "16.1.8": "Add /odc set command and update help documentation.",
+    "16.1.9": "Fixes the converter block not dropping and adds a tooltip the explains how it works."
   }
 }
