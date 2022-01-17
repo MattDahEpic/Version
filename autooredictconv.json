@@ -8,7 +8,8 @@
     "1.12-recommended": "1.12-1.0.1",
     "1.16.3-recommended": "16.0.1",
     "1.16.4-recommended": "16.1.10",
-    "1.16.5-recommended": "16.1.10"
+    "1.16.5-recommended": "16.1.10",
+    "1.18-recommended": "18.0.0"
   },
   "1.9": {
     "1.9-1.0": "Updated to 1.9!",
@@ -49,5 +50,8 @@
     "16.1.8": "Add /odc set command and update help documentation.",
     "16.1.9": "Fixes the converter block not dropping and adds a tooltip the explains how it works.",
     "16.1.10": "Fixes a server crash bug."
+  },
+  "1.18": {
+    "18.0.0": "First release for 1.18."
   }
 }
