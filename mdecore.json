@@ -10,7 +10,8 @@
     "1.16.4-recommended": "16.1.0",
     "1.18-recommended": "18.0.0",
     "1.18.1-recommended": "18.0.0",
-    "1.18.2-recommended": "18.0.1"
+    "1.18.2-recommended": "18.0.1",
+    "1.19.2-recommended": "19.0.0"
   },
   "1.9": {
     "1.9-0.1": "Beta 1.9 release, incomplete.",
@@ -61,5 +62,8 @@
   },
   "1.18.2": {
     "18.0.1": "Update to 1.18.2!"
+  },
+  "1.19.2": {
+    "19.0.0": "First release for 1.19!"
   }
 }
