@@ -5,7 +5,8 @@
     "1.17.1-recommended": "17.0.0",
     "1.18-recommended": "18.0.1",
     "1.18.1-recommended": "18.0.1",
-    "1.18.2-recommended": "18.0.3"
+    "1.18.2-recommended": "18.0.3",
+    "1.19.2-recommended": "19.0.0"
   },
   "1.16.3": {
     "16.0.0": "First release for 1.16."
@@ -23,5 +24,8 @@
   "1.18.2": {
     "18.0.2": "First release for 1.18.2",
     "18.0.3": "Update development tools"
+  },
+  "1.19.2": {
+    "19.0.0": "First reelease for 1.19.2"
   }
 }
