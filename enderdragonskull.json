@@ -1,0 +1,9 @@
+{
+  "homepage": "https://modrinth.com/mod/enderdragonskull",
+  "promos": {
+    "1.19.2-recommended": "19.0.0"
+  },
+  "1.19.2": {
+    "19.0.0": "First reelease for 1.19.2"
+  }
+}
